@@ -1,3 +1,5 @@
+### Info
+
  I want you to build a simple quiz program. It will ask a series of questions and evaluate each answer.
 
 1- The program should keep track of the number of questions answered correctly.
